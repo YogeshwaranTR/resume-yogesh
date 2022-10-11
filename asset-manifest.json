@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/resume-yogesh/static/css/main.90a6f383.css",
+    "main.js": "/resume-yogesh/static/js/main.220361a3.js",
+    "static/js/787.a6686681.chunk.js": "/resume-yogesh/static/js/787.a6686681.chunk.js",
+    "static/media/Image.jpg": "/resume-yogesh/static/media/Image.8dfc61f4c0b8e37ba438.jpg",
+    "index.html": "/resume-yogesh/index.html",
+    "main.90a6f383.css.map": "/resume-yogesh/static/css/main.90a6f383.css.map",
+    "main.220361a3.js.map": "/resume-yogesh/static/js/main.220361a3.js.map",
+    "787.a6686681.chunk.js.map": "/resume-yogesh/static/js/787.a6686681.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.90a6f383.css",
+    "static/js/main.220361a3.js"
+  ]
+}
